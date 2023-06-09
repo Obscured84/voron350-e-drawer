@@ -1,6 +1,8 @@
 # voron350-e-drawer
 Electrics Drawer for Voron 350
 
+## Work in Progress
+
 # BOM
 | Qty      | Part           | Link |
 | ------------- |:-------------| -----:|
@@ -11,5 +13,5 @@ Electrics Drawer for Voron 350
 | few | Wagos 5 and 3     |    |
 | few | Heat Inserts    |    |
 | few | Din Rails     |    |
-| some | Nanoe Tape     |    |
+| some | Nano Tape     |    |
 
