@@ -1,6 +1,6 @@
 # voron350-e-drawer
 Electrics Drawer for Voron 350
-
+![](https://github.com/Obscured84/voron350-e-drawer/blob/main/images/IMG_0044.png| width=20)
 ## Work in Progress
 
 # BOM
