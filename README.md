@@ -6,6 +6,8 @@ Electrics Drawer for Voron 350
 
 ![](https://github.com/Obscured84/voron350-e-drawer/blob/main/images/IMG_0044.png)
 
+![](https://github.com/Obscured84/voron350-e-drawer/assets/29978632/bc4d8feb-ca23-48f6-9ebf-8db53c03af3c)
+
 # BOM
 | Qty      | Part           | Link |
 | ------------- |:-------------| -----:|
